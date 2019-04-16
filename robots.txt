@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gaixoozaep.glentaka.com/sitemap.xml
